@@ -1,0 +1,19 @@
+﻿  main.cpp
+g:\project_code\project\lập trình c++ howkteam\005 - kinh nghiệm về ghi chú trong c++\project\kinhngiemcomment\kinhngiemcomment\main.cpp(57): error C2143: syntax error: missing ';' before '*'
+g:\project_code\project\lập trình c++ howkteam\005 - kinh nghiệm về ghi chú trong c++\project\kinhngiemcomment\kinhngiemcomment\main.cpp(57): error C2059: syntax error: '/'
+g:\project_code\project\lập trình c++ howkteam\005 - kinh nghiệm về ghi chú trong c++\project\kinhngiemcomment\kinhngiemcomment\main.cpp(70): error C2563: mismatch in formal parameter list
+g:\project_code\project\lập trình c++ howkteam\005 - kinh nghiệm về ghi chú trong c++\project\kinhngiemcomment\kinhngiemcomment\main.cpp(70): error C2568: '<': unable to resolve function overload
+  g:\project_code\project\lập trình c++ howkteam\005 - kinh nghiệm về ghi chú trong c++\project\kinhngiemcomment\kinhngiemcomment\main.cpp(70): note: could be 'size_t std::size(const _Ty (&)[_Size]) noexcept'
+  g:\project_code\project\lập trình c++ howkteam\005 - kinh nghiệm về ghi chú trong c++\project\kinhngiemcomment\kinhngiemcomment\main.cpp(70): note: or       'unknown-type std::size(const _Container &)'
+g:\project_code\project\lập trình c++ howkteam\005 - kinh nghiệm về ghi chú trong c++\project\kinhngiemcomment\kinhngiemcomment\main.cpp(76): error C3861: 'InsertionSort': identifier not found
+g:\project_code\project\lập trình c++ howkteam\005 - kinh nghiệm về ghi chú trong c++\project\kinhngiemcomment\kinhngiemcomment\main.cpp(84): error C2374: 'smallestIndex': redefinition; multiple initialization
+  g:\project_code\project\lập trình c++ howkteam\005 - kinh nghiệm về ghi chú trong c++\project\kinhngiemcomment\kinhngiemcomment\main.cpp(69): note: see declaration of 'smallestIndex'
+g:\project_code\project\lập trình c++ howkteam\005 - kinh nghiệm về ghi chú trong c++\project\kinhngiemcomment\kinhngiemcomment\main.cpp(89): error C2374: 'array': redefinition; multiple initialization
+  g:\project_code\project\lập trình c++ howkteam\005 - kinh nghiệm về ghi chú trong c++\project\kinhngiemcomment\kinhngiemcomment\main.cpp(74): note: see declaration of 'array'
+g:\project_code\project\lập trình c++ howkteam\005 - kinh nghiệm về ghi chú trong c++\project\kinhngiemcomment\kinhngiemcomment\main.cpp(91): error C3861: 'InsertionSort': identifier not found
+g:\project_code\project\lập trình c++ howkteam\005 - kinh nghiệm về ghi chú trong c++\project\kinhngiemcomment\kinhngiemcomment\main.cpp(119): error C2374: 'a': redefinition; multiple initialization
+  g:\project_code\project\lập trình c++ howkteam\005 - kinh nghiệm về ghi chú trong c++\project\kinhngiemcomment\kinhngiemcomment\main.cpp(106): note: see declaration of 'a'
+g:\project_code\project\lập trình c++ howkteam\005 - kinh nghiệm về ghi chú trong c++\project\kinhngiemcomment\kinhngiemcomment\main.cpp(120): error C2374: 'b': redefinition; multiple initialization
+  g:\project_code\project\lập trình c++ howkteam\005 - kinh nghiệm về ghi chú trong c++\project\kinhngiemcomment\kinhngiemcomment\main.cpp(107): note: see declaration of 'b'
+g:\project_code\project\lập trình c++ howkteam\005 - kinh nghiệm về ghi chú trong c++\project\kinhngiemcomment\kinhngiemcomment\main.cpp(121): error C2374: 'c': redefinition; multiple initialization
+  g:\project_code\project\lập trình c++ howkteam\005 - kinh nghiệm về ghi chú trong c++\project\kinhngiemcomment\kinhngiemcomment\main.cpp(108): note: see declaration of 'c'
