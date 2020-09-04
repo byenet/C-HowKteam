@@ -1,0 +1,16 @@
+﻿  main.cpp
+g:\project_code\project\lập trình c++ howkteam\007 - số tự nhiên và số chấm động trong c++\project\sotunhiensochamdong\sotunhiensochamdong\main.cpp(56): warning C4101: 'dVarName2': unreferenced local variable
+g:\project_code\project\lập trình c++ howkteam\007 - số tự nhiên và số chấm động trong c++\project\sotunhiensochamdong\sotunhiensochamdong\main.cpp(49): warning C4101: 'us': unreferenced local variable
+g:\project_code\project\lập trình c++ howkteam\007 - số tự nhiên và số chấm động trong c++\project\sotunhiensochamdong\sotunhiensochamdong\main.cpp(43): warning C4101: 's2': unreferenced local variable
+g:\project_code\project\lập trình c++ howkteam\007 - số tự nhiên và số chấm động trong c++\project\sotunhiensochamdong\sotunhiensochamdong\main.cpp(44): warning C4101: 'n4': unreferenced local variable
+g:\project_code\project\lập trình c++ howkteam\007 - số tự nhiên và số chấm động trong c++\project\sotunhiensochamdong\sotunhiensochamdong\main.cpp(40): warning C4101: 'n2': unreferenced local variable
+g:\project_code\project\lập trình c++ howkteam\007 - số tự nhiên và số chấm động trong c++\project\sotunhiensochamdong\sotunhiensochamdong\main.cpp(48): warning C4101: 'uc': unreferenced local variable
+g:\project_code\project\lập trình c++ howkteam\007 - số tự nhiên và số chấm động trong c++\project\sotunhiensochamdong\sotunhiensochamdong\main.cpp(55): warning C4101: 'fVarName': unreferenced local variable
+g:\project_code\project\lập trình c++ howkteam\007 - số tự nhiên và số chấm động trong c++\project\sotunhiensochamdong\sotunhiensochamdong\main.cpp(50): warning C4101: 'un': unreferenced local variable
+g:\project_code\project\lập trình c++ howkteam\007 - số tự nhiên và số chấm động trong c++\project\sotunhiensochamdong\sotunhiensochamdong\main.cpp(39): warning C4101: 's': unreferenced local variable
+g:\project_code\project\lập trình c++ howkteam\007 - số tự nhiên và số chấm động trong c++\project\sotunhiensochamdong\sotunhiensochamdong\main.cpp(38): warning C4101: 'c': unreferenced local variable
+g:\project_code\project\lập trình c++ howkteam\007 - số tự nhiên và số chấm động trong c++\project\sotunhiensochamdong\sotunhiensochamdong\main.cpp(42): warning C4101: 'c2': unreferenced local variable
+g:\project_code\project\lập trình c++ howkteam\007 - số tự nhiên và số chấm động trong c++\project\sotunhiensochamdong\sotunhiensochamdong\main.cpp(31): warning C4101: 'n': unreferenced local variable
+g:\project_code\project\lập trình c++ howkteam\007 - số tự nhiên và số chấm động trong c++\project\sotunhiensochamdong\sotunhiensochamdong\main.cpp(57): warning C4101: 'ldVarName3': unreferenced local variable
+  SoTuNhienSoChamDong.vcxproj -> G:\Project_code\project\lập trình C++ howkteam\007 - Số tự nhiên và Số chấm động trong C++\project\SoTuNhienSoChamDong\Debug\SoTuNhienSoChamDong.exe
+  SoTuNhienSoChamDong.vcxproj -> G:\Project_code\project\lập trình C++ howkteam\007 - Số tự nhiên và Số chấm động trong C++\project\SoTuNhienSoChamDong\Debug\SoTuNhienSoChamDong.pdb (Full PDB)
