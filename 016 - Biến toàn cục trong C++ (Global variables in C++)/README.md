@@ -1,0 +1,1 @@
+# 016 - Biến toàn cục trong C++ (Global variables in C++)  
