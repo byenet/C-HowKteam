@@ -1,0 +1,6 @@
+﻿  main.cpp
+g:\project_code\project\lập trình c++ howkteam\018 - ép kiểu ngầm định trong c++ (implicit type conversion in c++)\project\epkieungamdinh\epkieungamdinh\main.cpp(17): warning C4305: 'initializing': truncation from 'double' to 'float'
+g:\project_code\project\lập trình c++ howkteam\018 - ép kiểu ngầm định trong c++ (implicit type conversion in c++)\project\epkieungamdinh\epkieungamdinh\main.cpp(24): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+g:\project_code\project\lập trình c++ howkteam\018 - ép kiểu ngầm định trong c++ (implicit type conversion in c++)\project\epkieungamdinh\epkieungamdinh\main.cpp(40): warning C4305: 'initializing': truncation from 'int' to 'bool'
+  EpKieuNgamDinh.vcxproj -> G:\Project_code\project\lập trình C++ howkteam\018 - Ép kiểu ngầm định trong C++ (Implicit type conversion in C++)\project\EpKieuNgamDinh\Debug\EpKieuNgamDinh.exe
+  EpKieuNgamDinh.vcxproj -> G:\Project_code\project\lập trình C++ howkteam\018 - Ép kiểu ngầm định trong C++ (Implicit type conversion in C++)\project\EpKieuNgamDinh\Debug\EpKieuNgamDinh.pdb (Full PDB)

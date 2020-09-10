@@ -1,0 +1,1 @@
+# 023 - Tiền khai báo và Định nghĩa Hàm (Forward declarations and Definitions of Functions)  
