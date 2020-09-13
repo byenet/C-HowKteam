@@ -1,0 +1,1 @@
+# 037 - Mảng ký tự trong C++ (C-style strings)  

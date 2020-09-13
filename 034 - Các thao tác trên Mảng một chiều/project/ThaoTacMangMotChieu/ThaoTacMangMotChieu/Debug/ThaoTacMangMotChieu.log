@@ -1,0 +1,16 @@
+﻿  main.cpp
+g:\project_code\project\lập trình c++ howkteam\034 - các thao tác trên mảng một chiều\project\thaotacmangmotchieu\thaotacmangmotchieu\main.cpp(199): error C3861: 'NhapMang': identifier not found
+g:\project_code\project\lập trình c++ howkteam\034 - các thao tác trên mảng một chiều\project\thaotacmangmotchieu\thaotacmangmotchieu\main.cpp(233): error C3861: 'NhapMang2': identifier not found
+g:\project_code\project\lập trình c++ howkteam\034 - các thao tác trên mảng một chiều\project\thaotacmangmotchieu\thaotacmangmotchieu\main.cpp(250): error C3861: 'NhapMang2': identifier not found
+g:\project_code\project\lập trình c++ howkteam\034 - các thao tác trên mảng một chiều\project\thaotacmangmotchieu\thaotacmangmotchieu\main.cpp(269): error C3861: 'NhapMang': identifier not found
+g:\project_code\project\lập trình c++ howkteam\034 - các thao tác trên mảng một chiều\project\thaotacmangmotchieu\thaotacmangmotchieu\main.cpp(387): error C3861: 'NhapMang': identifier not found
+g:\project_code\project\lập trình c++ howkteam\034 - các thao tác trên mảng một chiều\project\thaotacmangmotchieu\thaotacmangmotchieu\main.cpp(424): error C3861: 'NhapMang': identifier not found
+g:\project_code\project\lập trình c++ howkteam\034 - các thao tác trên mảng một chiều\project\thaotacmangmotchieu\thaotacmangmotchieu\main.cpp(440): error C3861: 'NhapMang': identifier not found
+g:\project_code\project\lập trình c++ howkteam\034 - các thao tác trên mảng một chiều\project\thaotacmangmotchieu\thaotacmangmotchieu\main.cpp(454): error C3861: 'NhapMang': identifier not found
+g:\project_code\project\lập trình c++ howkteam\034 - các thao tác trên mảng một chiều\project\thaotacmangmotchieu\thaotacmangmotchieu\main.cpp(468): error C3861: 'NhapMang': identifier not found
+g:\project_code\project\lập trình c++ howkteam\034 - các thao tác trên mảng một chiều\project\thaotacmangmotchieu\thaotacmangmotchieu\main.cpp(823): warning C4805: '==': unsafe mix of type 'int' and type 'bool' in operation
+g:\project_code\project\lập trình c++ howkteam\034 - các thao tác trên mảng một chiều\project\thaotacmangmotchieu\thaotacmangmotchieu\main.cpp(1087): error C2059: syntax error: '.'
+g:\project_code\project\lập trình c++ howkteam\034 - các thao tác trên mảng một chiều\project\thaotacmangmotchieu\thaotacmangmotchieu\main.cpp(1089): error C2143: syntax error: missing ';' before '{'
+g:\project_code\project\lập trình c++ howkteam\034 - các thao tác trên mảng một chiều\project\thaotacmangmotchieu\thaotacmangmotchieu\main.cpp(1089): error C2447: '{': missing function header (old-style formal list?)
+g:\project_code\project\lập trình c++ howkteam\034 - các thao tác trên mảng một chiều\project\thaotacmangmotchieu\thaotacmangmotchieu\main.cpp(1156): error C3861: 'KTSNT': identifier not found
+g:\project_code\project\lập trình c++ howkteam\034 - các thao tác trên mảng một chiều\project\thaotacmangmotchieu\thaotacmangmotchieu\main.cpp(1156): warning C4805: '==': unsafe mix of type 'unknown-type' and type 'bool' in operation

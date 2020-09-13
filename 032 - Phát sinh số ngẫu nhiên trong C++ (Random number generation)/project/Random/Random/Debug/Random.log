@@ -1,0 +1,5 @@
+﻿  mian.cpp
+g:\project_code\project\lập trình c++ howkteam\032 - phát sinh số ngẫu nhiên trong c++ (random number generation)\project\random\random\mian.cpp(8): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+g:\project_code\project\lập trình c++ howkteam\032 - phát sinh số ngẫu nhiên trong c++ (random number generation)\project\random\random\mian.cpp(21): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Random.vcxproj -> G:\Project_code\project\lập trình C++ howkteam\032 - Phát sinh số ngẫu nhiên trong C++ (Random number generation)\project\Random\Debug\Random.exe
+  Random.vcxproj -> G:\Project_code\project\lập trình C++ howkteam\032 - Phát sinh số ngẫu nhiên trong C++ (Random number generation)\project\Random\Debug\Random.pdb (Full PDB)

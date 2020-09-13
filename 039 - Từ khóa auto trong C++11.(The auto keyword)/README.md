@@ -1,0 +1,1 @@
+# 039 - Từ khóa auto trong C++11.(The auto keyword)  

@@ -1,0 +1,1 @@
+# 032 - Phát sinh số ngẫu nhiên trong C++ (Random number generation)
