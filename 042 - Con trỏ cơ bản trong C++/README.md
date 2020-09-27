@@ -1,0 +1,1 @@
+# 042 - Con trỏ cơ bản trong C++

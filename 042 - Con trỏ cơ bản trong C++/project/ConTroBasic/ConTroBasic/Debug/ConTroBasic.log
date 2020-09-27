@@ -1,0 +1,10 @@
+﻿  main.cpp
+g:\project_code\project\lập trình c++ howkteam\042 - con trỏ cơ bản trong c++\project\controbasic\controbasic\main.cpp(24): warning C4101: 'iPtr7': unreferenced local variable
+g:\project_code\project\lập trình c++ howkteam\042 - con trỏ cơ bản trong c++\project\controbasic\controbasic\main.cpp(24): warning C4101: 'iPtr6': unreferenced local variable
+g:\project_code\project\lập trình c++ howkteam\042 - con trỏ cơ bản trong c++\project\controbasic\controbasic\main.cpp(22): warning C4101: 'iPtr5': unreferenced local variable
+g:\project_code\project\lập trình c++ howkteam\042 - con trỏ cơ bản trong c++\project\controbasic\controbasic\main.cpp(17): warning C4101: 'dPtr': unreferenced local variable
+g:\project_code\project\lập trình c++ howkteam\042 - con trỏ cơ bản trong c++\project\controbasic\controbasic\main.cpp(20): warning C4101: 'iPtr3': unreferenced local variable
+g:\project_code\project\lập trình c++ howkteam\042 - con trỏ cơ bản trong c++\project\controbasic\controbasic\main.cpp(16): warning C4101: 'iPtr': unreferenced local variable
+g:\project_code\project\lập trình c++ howkteam\042 - con trỏ cơ bản trong c++\project\controbasic\controbasic\main.cpp(19): warning C4101: 'iPtr2': unreferenced local variable
+g:\project_code\project\lập trình c++ howkteam\042 - con trỏ cơ bản trong c++\project\controbasic\controbasic\main.cpp(22): warning C4101: 'iPtr4': unreferenced local variable
+g:\project_code\project\lập trình c++ howkteam\042 - con trỏ cơ bản trong c++\project\controbasic\controbasic\main.cpp(69): error C4700: uninitialized local variable 'ptr1111' used

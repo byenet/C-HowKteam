@@ -1,0 +1,5 @@
+﻿  main.cpp
+g:\project_code\project\lập trình c++ howkteam\041 - lớp dựng sẵn array trong c++11\project\lopdungsanarray\lopdungsanarray\main.cpp(20): warning C4101: 'arr': unreferenced local variable
+g:\project_code\project\lập trình c++ howkteam\041 - lớp dựng sẵn array trong c++11\project\lopdungsanarray\lopdungsanarray\main.cpp(26): warning C4101: 'arr5': unreferenced local variable
+  LopDungSanArray.vcxproj -> G:\Project_code\project\lập trình C++ howkteam\041 - Lớp dựng sẵn Array trong C++11\project\LopDungSanArray\Debug\LopDungSanArray.exe
+  LopDungSanArray.vcxproj -> G:\Project_code\project\lập trình C++ howkteam\041 - Lớp dựng sẵn Array trong C++11\project\LopDungSanArray\Debug\LopDungSanArray.pdb (Full PDB)

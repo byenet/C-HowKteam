@@ -1,0 +1,9 @@
+﻿  main.cpp
+g:\project_code\project\lập trình c++ howkteam\043 - con trỏ null trong c++ (null pointers)\project\contronull\contronull\main.cpp(15): warning C4566: character represented by universal-character-name '\u1ECF' cannot be represented in the current code page (1252)
+g:\project_code\project\lập trình c++ howkteam\043 - con trỏ null trong c++ (null pointers)\project\contronull\contronull\main.cpp(15): warning C4566: character represented by universal-character-name '\u0111' cannot be represented in the current code page (1252)
+g:\project_code\project\lập trình c++ howkteam\043 - con trỏ null trong c++ (null pointers)\project\contronull\contronull\main.cpp(15): warning C4566: character represented by universal-character-name '\u1EBF' cannot be represented in the current code page (1252)
+g:\project_code\project\lập trình c++ howkteam\043 - con trỏ null trong c++ (null pointers)\project\contronull\contronull\main.cpp(15): warning C4566: character represented by universal-character-name '\u1ECB' cannot be represented in the current code page (1252)
+g:\project_code\project\lập trình c++ howkteam\043 - con trỏ null trong c++ (null pointers)\project\contronull\contronull\main.cpp(15): warning C4566: character represented by universal-character-name '\u1EC9' cannot be represented in the current code page (1252)
+g:\project_code\project\lập trình c++ howkteam\043 - con trỏ null trong c++ (null pointers)\project\contronull\contronull\main.cpp(17): warning C4566: character represented by universal-character-name '\u1ECF' cannot be represented in the current code page (1252)
+  ConTroNull.vcxproj -> G:\Project_code\project\lập trình C++ howkteam\043 - Con trỏ NULL trong C++ (NULL pointers)\project\ConTroNull\Debug\ConTroNull.exe
+  ConTroNull.vcxproj -> G:\Project_code\project\lập trình C++ howkteam\043 - Con trỏ NULL trong C++ (NULL pointers)\project\ConTroNull\Debug\ConTroNull.pdb (Full PDB)
